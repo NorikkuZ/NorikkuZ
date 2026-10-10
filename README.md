@@ -1,12 +1,16 @@
 HALO BRAY 👋
 
-<p align="left">
 <div align="center">
   <!-- Aesthetic JoJolion Banner -->
   <img src="https://i.pinimg.com/originals/ef/95/9b/ef959bb4debfcd1c1ff7b889d14ec989.gif" width="100%" alt="JoJolion Banner" style="border-radius:15px;"/>
   
-  <br>
+  <br><br>
+
+  <!-- Gappy Avatar GIF -->
+  <img src="https://media.tenor.com/bySdLtOpNFA.gif" width="200" alt="Gappy" style="border-radius: 20px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);"/>
   
+  <br>
+
   # ⚓ Ｗｈｏ Ａｍ Ｉ？ 🫧
   ### *"I don't have any memories of who I am, or where I came from."* 
   
@@ -61,4 +65,3 @@ HALO BRAY 👋
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </div>
-
