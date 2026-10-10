@@ -3,12 +3,12 @@ HALO BRAY 👋
 <div align="center">
 
 <!-- JoJolion Banner -->
-<img src="https://i.pinimg.com/originals/ef/95/9b/ef959bb4debfcd1c1ff7b889d14ec989.gif" width="100%" alt="JoJolion Banner" />
+<img src="https://github.com/user-attachments/assets/b3239d2e-1aa5-48c8-87b6-b7cd99f1675e" width="100%" alt="JoJolion Banner" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
 
 <br><br>
 
 <!-- Gappy -->
-<img src="https://tenor.com/bySdLtOpNFA.gif" width="200" alt="Gappy" />
+<img src="https://github.com/user-attachments/assets/2dd365a9-5454-433d-a9a0-8d9f38056362" width="200" alt="Gappy" style="border-radius: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.5);" />
 
 <h1>🫧 Who Am I? ⚓</h1>
 
@@ -16,7 +16,7 @@ HALO BRAY 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=5CE1E6&center=true&vCenter=true&repeat=true&width=520&lines=Ahoy!+I'm+Julius+Pratama;Soft+%26+Wet:+Steal+the+Bugs!;IT+Del+Student+%7C+Mobile+%26+Web+Dev;Rokakaka+needs+an+equal+exchange..." alt="Typing SVG" />
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/Stand-Soft%20%26%20Wet-5CE1E6?style=for-the-badge&labelColor=0D1B2A" alt="Stand" />
 <img src="https://img.shields.io/badge/Town-Morioh%20(Medan)-B8A1FF?style=for-the-badge&labelColor=0D1B2A" alt="Town" />
@@ -37,8 +37,10 @@ HALO BRAY 👋
 
 ### ⚓ My "Stand" Capabilities (Tech Stack)
 
-> **Stand Name:** `Soft & Wet`
+> **Stand Name:** `Soft & Wet`  
 > **Ability:** Stealing errors, bugs, and bad syntax from the repository! 🫧
+
+<br>
 
 <div align="center">
 
