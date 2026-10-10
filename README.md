@@ -19,7 +19,6 @@ HALO BRAY 👋
 <br>
 
 <img src="https://img.shields.io/badge/Stand-Soft%20%26%20Wet-5CE1E6?style=for-the-badge&labelColor=0D1B2A" alt="Stand" />
-<img src="https://img.shields.io/badge/Part-8%20JoJolion-F78FB3?style=for-the-badge&labelColor=0D1B2A" alt="Part 8" />
 <img src="https://img.shields.io/badge/Town-Morioh%20(Medan)-B8A1FF?style=for-the-badge&labelColor=0D1B2A" alt="Town" />
 
 </div>
