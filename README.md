@@ -2,6 +2,8 @@ HALO BRAY 👋
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Joined%20GitHub-2021-5CE1E6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1B2A" alt="Joined GitHub" />
+
 <!-- JoJolion Banner -->
 <img src="https://github.com/user-attachments/assets/b3239d2e-1aa5-48c8-87b6-b7cd99f1675e" width="100%" alt="JoJolion Banner" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
 
