@@ -20,8 +20,6 @@ HALO BRAY 👋
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Stand-Soft%20%26%20Wet-5CE1E6?style=for-the-badge&labelColor=0D1B2A" alt="Stand" />
-<img src="https://img.shields.io/badge/Town-Morioh%20(Medan)-B8A1FF?style=for-the-badge&labelColor=0D1B2A" alt="Town" />
 
 </div>
 
@@ -85,7 +83,7 @@ HALO BRAY 👋
 <a href="https://discord.com/users/605003189372321804" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
-<a href="https://www.facebook.com/julius.pratama" target="_blank">
+<a href="https://www.facebook.com/juliop.p.94" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 
